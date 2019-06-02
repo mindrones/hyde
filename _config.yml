@@ -1,4 +1,5 @@
 name: Jekyll test site
+title: Jekyll test site
 
 collections:
   authors:
