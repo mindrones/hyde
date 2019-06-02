@@ -1,3 +1,5 @@
+name: Jekyll test site
+
 collections:
   authors:
     output: true
